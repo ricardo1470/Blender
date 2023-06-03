@@ -1,13 +1,19 @@
 > BLENDER | AR
 ---
 
+## 1. Airplane model
+---
 <div align="center">
     <a href="personal logo"><img src="https://github.com/ricardo1470/Blender/blob/main/Images/69cbbeaa-31d6-436f-850c-5970b8748f63.jpg" align="middle" width="600" height="600"></a>
 </div>
 
-## 1. Airplane model
 ## 2. Airplane AR
+---
 ## 3. Environment
+---
+<div align="center">
+    <a href="personal logo"><img src="https://github.com/ricardo1470/Blender/blob/main/Images/69cbbeaa-31d6-436f-850c-5970b8748f63.jpg" align="middle" width="600" height="600"></a>
+</div>
 ---
 
 <div align="center">
