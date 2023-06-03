@@ -2,7 +2,7 @@
 ---
 
 <div align="center">
-    <a href="personal logo"><img src="https://github.com/ricardo1470/Blender/blob/main/Images/69cbbeaa-31d6-436f-850c-5970b8748f63.jpg" align="middle" width="600" height="600"></a>
+    <a href="personal logo"><img src="https://github.com/ricardo1470/Blender/blob/main/Environment/img/envionment16.jpg" align="middle" width="600" height="600"></a>
 </div>
 
 ---
